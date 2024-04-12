@@ -1,0 +1,21 @@
+.imperio {
+    background-color: red;
+}
+.rebeldes{
+    background-color: blue;
+}
+.unidad-apoyo {
+    text-align: center;
+}
+.nave {
+    text-transform: uppercase; 
+}
+#darth{
+    font-size: 34px; 
+    font-weight: bold;
+}
+
+#luke {
+    font-size: 34px; 
+    font-style: italic;
+}
